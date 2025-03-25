@@ -1,0 +1,6 @@
+# GET http://localhost:8000/
+
+# send
+# GET http://localhost:8000/currencies
+
+GET http://localhost:8000/currencies/
